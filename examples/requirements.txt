@@ -1,0 +1,3 @@
+Requirement: Generate a daily report showing order count and gross revenue
+for the previous seven complete calendar days, grouped by order date.
+Exclude cancelled orders and avoid counting duplicate order IDs.
